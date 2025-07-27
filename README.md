@@ -117,4 +117,5 @@ href="https://github.com/Technolobito"><img src="https://github.com/Technolobito
 
 ## **`⭐ CRÉDITOS`**
 <a
-href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
+ahi lleva la img
+</a>
