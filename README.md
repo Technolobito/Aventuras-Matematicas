@@ -28,16 +28,16 @@ Este juego esta basado en la teoria de  `Gamificación`. ofrece dos modos de jue
 
 --- 
 
-## **`🔥 Despliegue en BoxMineWorld 🚀`**
+## **`🔥 Requerimientos 🚀`**
 
 <a href="https://boxmineworld.com">
   <img width="180px" src="https://i.imgur.com/allAyd4.png"/>
 </a>
 
 <details>
- <summary><b>📎 Enlaces Importantes</b></summary>
+ <summary><b>📎 Window: </b></summary>
 
-- **Pagina Oficial:** [`Boxmineworld`](https://boxmineworld.com)
+- **Python:** [`Aqui`](https://www.python.org/downloads/)
 - **Tutorial - Crear cuenta en la Dashboard:** [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
 - **Dashboard:** [`Dash`](https://dash.boxmineworld.com)
 - **Panel:** [`Aquí`](https://panel.boxmineworld.com)
