@@ -1,6 +1,6 @@
 > 🌧 Versión actual: ^1.0.5
 
-<h1 align="center">💣 Megumin Bot</p>
+<h1 align="center">💣 Aventuras Matematicas</p>
 <p>
         <img src= "https://files.catbox.moe/mwi0gz.jpg">
     </p>
