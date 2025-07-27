@@ -1,4 +1,4 @@
-> 🌧 Versión actual: ^1.0.5
+> 🌧 Versión actual: ^1.0.0 hello
 
 <h1 align="center">💣 Aventuras Matematicas</p>
 <p>
