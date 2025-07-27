@@ -117,5 +117,5 @@ href="https://github.com/Technolobito"><img src="https://github.com/Technolobito
 
 ## **`⭐ CRÉDITOS`**
 <a 
-href="https://github.com/Nmaker19/bailepy
+href="https://github.com/Nmaker19"><img src="https://github.com/Nmaker19" width="130" height="130" alt="Nmaker19"/>
 </a>
