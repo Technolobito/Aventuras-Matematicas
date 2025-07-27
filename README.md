@@ -1,4 +1,4 @@
-> 🌧 Versión actual: ^1.0.0 hello
+> 🌧 Versión actual: ^1.0.0 
 
 <h1 align="center">💣 Aventuras Matematicas</p>
 <p>
@@ -9,13 +9,13 @@
 
 ## Descripción
 
-Megumin es un bot de WhatsApp multifuncional basado en `baileys`. Este bot ofrece una variedad de características para mejorar tu experiencia en WhatsApp.
+Este juego esta basado en la teoria de  `Gamificación`. ofrece dos modos de juegos actualmente asegurando el autoconocimiento
 
 ---
 
 ### **`❤️ YouTube 🍬`**
-<a href="https://youtube.com/@davidchian4957">
-  <img width="180px" src="https://files.catbox.moe/3m3dih.jpg"/>
+<a href="https://youtube.com/@technolobito">
+  <img width="180px" src="https://i.postimg.cc/KznznWzT/5-sin-t-tulo-20250720202617.png"/>
 </a>
 
 <details>
