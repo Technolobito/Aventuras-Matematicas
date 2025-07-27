@@ -116,6 +116,6 @@ Inicia el bot nuevamente:
 href="https://github.com/Technolobito"><img src="https://github.com/Technolobito.png" width="130" height="130" alt="Lobito"/></a>
 
 ## **`⭐ CRÉDITOS`**
-<a
-ahi lleva la img
+<a 
+href="https://github.com/Nmaker19/bailepy
 </a>
