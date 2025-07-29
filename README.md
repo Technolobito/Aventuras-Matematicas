@@ -1,106 +1,42 @@
-> 🌧 Versión actual: ^1.0.0 
+> 🌧 Versión actual: 2.0*
 
-<h1 align="center">💣 Aventuras Matematicas</p>
+<h1 align="center">💣Aventuras Matemáticas </p>
 <p>
-        <img src= "https://files.catbox.moe/mwi0gz.jpg">
+        <img src= "https://i.postimg.cc/MZYPTsKc/python-coding-mistakes.jpg">
     </p>
 
 ---
 
 ## Descripción
 
-Este juego esta basado en la teoria de  `Gamificación`. ofrece dos modos de juegos actualmente asegurando el autoconocimiento
+Este juego es un proyecto tanto para aprender y matar el rato XD
 
 ---
-
-### **`❤️ YouTube 🍬`**
-<a href="https://youtube.com/@technolobito">
-  <img width="180px" src="https://i.postimg.cc/KznznWzT/5-sin-t-tulo-20250720202617.png"/>
-</a>
-
-<details>
- <summary><b>:paperclip: Tutoriales</b></summary>
-
-- **Termux:** [Aquí](https://youtu.be/gqtGeXRLImQ?si=PpM7EitywqFunEU5)
-- **Sky:** [Aquí](https://youtu.be/TzHyGH_6GH0?si=uKS3h8MXIhMOGrEM)
-
-</details>
-
---- 
 
 ## **`🔥 Requerimientos 🚀`**
 
-<a href="https://boxmineworld.com">
-  <img width="180px" src="https://i.imgur.com/allAyd4.png"/>
+<a href="https://www.python.org/">
+  <img width="180px" src="https://i.postimg.cc/pTRSG3LH/make-you-a-2d-game-with-python-in-pygame-or-turtle.jpg"/>
 </a>
 
 <details>
- <summary><b>📎 Window: </b></summary>
+ <summary><b>📎 Instalar: </b></summary>
 
 - **Python:** [`Aqui`](https://www.python.org/downloads/)
-- **Tutorial - Crear cuenta en la Dashboard:** [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-- **Dashboard:** [`Dash`](https://dash.boxmineworld.com)
-- **Panel:** [`Aquí`](https://panel.boxmineworld.com)
-- **Dudas sobre el Host:** [`Discord`](https://discord.gg/84qsr4v) _(Preguntar por Vicemi)_
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
-
-</details>
-
----
-
-### **`💣 Instalación por termux`**
-
-<details>
- <summary><b>:paperclip: 🖤 Comandos</b></summary>
-
-<img src="https://files.catbox.moe/uut7ke.jpg" alt="MeguminBot" style="width: 100%; height: auto; max-width: 500px;">
-
-> Nota: Copie y pegue los comandos en termux uno por uno.
+- **Libreria pygame:**
+Nota debes instalar python primero y luego instalar la librerias para probar el juego desde codigo fuente
+- **Copia los comandos uno por uno en cmd/simbolo del sistema:**
 ```bash
-termux-setup-storage
+pip install pygame
+```
+```bash
+pip install colorama
+```
+```bash
+pip install playsound
 ```
 
-```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
 
-```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD
-```
-
-```bash
-yarn install
-```
-
-```bash
-npm install
-```
-
-```bash
-npm update
-```
-
-```bash
-npm start
-```
-
-> Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
-
-### **💣 Activar en caso de detenerse en termux**
-
-> Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-Abre Termux y navega al directorio del bot:
-   
-   ```bash
-    cd Megumin-Bot-MD
-   ```
-
-Inicia el bot nuevamente:
-  
-   ```bash
-    npm start
-   ```
 
 </details>
 
@@ -110,11 +46,20 @@ Inicia el bot nuevamente:
 
 </a>
 
-### **`👑 CREADOR`**
+### *👑 CREADOR*
 <a
 href="https://github.com/Technolobito"><img src="https://github.com/Technolobito.png" width="130" height="130" alt="Lobito"/></a>
 
-## **`⭐ CRÉDITOS`**
+### *Equipo de desarrollo:*
+
+***Endanli Uzcategui***
+***Carmen Morales***
+***Javier Andueza***
+***Jean Rodriguez***
+
+
+
+## *⭐ Creditos*
 <a 
 href="https://github.com/Nmaker19"><img src="https://github.com/Nmaker19.png" width="130" height="130" alt="Nmaker19"/>
 </a>
