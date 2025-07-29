@@ -9,7 +9,7 @@
 
 ## Descripción
 
-Este juego es un proyecto tanto para aprender y matar el rato XD
+Este juego esta basado en la teoría de `gamificacion` promoviendo el autoconocimiento cuenta con dos modos de juego
 
 ---
 
