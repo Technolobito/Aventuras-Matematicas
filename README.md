@@ -52,10 +52,10 @@ href="https://github.com/Technolobito"><img src="https://github.com/Technolobito
 
 ### *Equipo de desarrollo:*
 
-***Endanli Uzcategui***
-***Carmen Morales***
-***Javier Andueza***
-***Jean Rodriguez***
+## *Endanli Uzcategui*
+## *Carmen Morales*
+## *Javier Andueza*
+## *Jean Rodriguez*
 
 
 
